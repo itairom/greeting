@@ -1,0 +1,25 @@
+@font-face {
+    font-family: rubik;
+    src: url('/index.html/static/Rubik-Regular.ttf');
+}
+
+* {
+    max-width: 300px;
+}
+
+.greeting {
+    font-family: rubik;
+    color: rgb(91, 62, 106);
+    font-size: 2rem;
+    text-align: right;
+    border: 2px solid pink;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(199, 178, 211);
+}
+
+img {
+    padding-top: 10px;
+    max-width: 250px;
+    border-radius: 50%;
+}
